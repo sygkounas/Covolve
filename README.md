@@ -1,2 +1,2 @@
 Illustrative videos of COvolve evolved policies. 
-Code will be released upon acceptnce.
+Code will be released upon acceptance.
