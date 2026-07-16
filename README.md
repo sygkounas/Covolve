@@ -28,7 +28,7 @@ The previews below show policies produced by COvolve in the three experimental d
 <tr>
 <td align="center" width="33%">
 <a href="media/minigrid_gpt_5_2_4x.mp4">
-<img src="media/minigrid_gpt_5_2_full.gif" width="100%" alt="COvolve MiniGrid demonstration">
+<img src="media/minigrid_gpt_5_2_4x_full.gif" width="100%" alt="COvolve MiniGrid demonstration">
 </a>
 <br>
 <strong>MiniGrid</strong>
@@ -38,7 +38,7 @@ Symbolic maze solving
 
 <td align="center" width="33%">
 <a href="media/pygame_gpt5_2_4x.mp4">
-<img src="media/pygame_gpt5_2_full.gif" width="100%" alt="COvolve PyGame demonstration">
+<img src="media/pygame_gpt5_2_4x_full.gif" width="100%" alt="COvolve PyGame demonstration">
 </a>
 <br>
 <strong>PyGame</strong>
